@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md.Ahmadullah.
 - 👀 I’m interested in Full-Stack Web Development.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me insta id:@venom_zeus_007
 
